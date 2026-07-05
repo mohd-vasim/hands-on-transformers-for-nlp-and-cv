@@ -1,0 +1,14 @@
+[project]
+name = "hands-on-transformers-for-nlp-and-cv"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.0",
+    "pandas>=3.0.3",
+    "pillow>=12.3.0",
+    "torch>=2.12.1",
+    "torchtext>=0.18.0",
+    "torchvision>=0.27.1",
+    "transformers>=5.13.0",
+]
